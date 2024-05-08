@@ -2,7 +2,6 @@
  *Submitted for verification at Etherscan.io on 2022-08-03
 */
 
-
 // File: hardhat/console.sol
 // SPDX-License-Identifier: MIT
 
